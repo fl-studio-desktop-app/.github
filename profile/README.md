@@ -17,7 +17,7 @@ Run the `.exe` file to start the application.
 ## 📸 Overview
 A quick look at key parts in action:
 
-![Main Workspace](https://cf1.zzounds.com/media/productmedia/fit,2018by3200/quality,85/FL_Studio_20_Fruity_Edition_June_2021_838077-15b74ae2ad6c92c052f94eae7d6fe82c.jpg)  
+![Main Workspace](https://play-lh.googleusercontent.com/Ltl7EWjwn0TCVUe3PL_hrG8r1vLIdeAZ1oCyTIN7XVQKG33OgEmWQzibx8qDtYmC3A=w526-h296-rw)  
 ![Mixer Interface](https://dt7v1i9vyp3mf.cloudfront.net/styles/news_large/s3/imagelibrary/I/ImageLineFLStudio_01-7UzI.5_oP3D6.40iUCHMfKkFrP8_BNfp.jpg)  
 
 ---
